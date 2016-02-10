@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GTM.GHIElectronics.MotorDriverL298</name>
+    </assembly>
+    <members>
+        <member name="T:Gadgeteer.Modules.GHIElectronics.MotorDriverL298">
+            <summary>A MotorDriverL298 module for Microsoft .NET Gadgeteer</summary>
+        </member>
+        <member name="M:Gadgeteer.Modules.GHIElectronics.MotorDriverL298.#ctor(System.Int32)">
+            <summary>Constructs a new instance.</summary>
+            <param name="socketNumber">The socket that this module is plugged in to.</param>
+        </member>
+        <member name="M:Gadgeteer.Modules.GHIElectronics.MotorDriverL298.StopAll">
+            <summary>Stops all motors.</summary>
+        </member>
+        <member name="M:Gadgeteer.Modules.GHIElectronics.MotorDriverL298.SetSpeed(Gadgeteer.Modules.GHIElectronics.MotorDriverL298.Motor,System.Double)">
+            <summary>Sets the given motor's speed.</summary>
+            <param name="motor">The motor to set the speed for.</param>
+            <param name="speed">The desired speed of the motor between -1 and 1.</param>
+        </member>
+        <member name="M:Gadgeteer.Modules.GHIElectronics.MotorDriverL298.SetSpeed(Gadgeteer.Modules.GHIElectronics.MotorDriverL298.Motor,System.Double,System.Int32)">
+            <summary>Sets the given motor's speed.</summary>
+            <param name="motor">The motor to set the speed for.</param>
+            <param name="speed">The desired speed of the motor between -1 and 1.</param>
+            <param name="time">How many milliseconds the motor should take to reach the specified speed.</param>
+        </member>
+        <member name="P:Gadgeteer.Modules.GHIElectronics.MotorDriverL298.Frequency">
+            <summary>Used to set the PWM frequency for the motors because some motors require a certain frequency in order to operate properly. It defaults to 25KHz (25000).</summary>
+        </member>
+        <member name="T:Gadgeteer.Modules.GHIElectronics.MotorDriverL298.Motor">
+            <summary>The possible motors.</summary>
+        </member>
+        <member name="F:Gadgeteer.Modules.GHIElectronics.MotorDriverL298.Motor.Motor1">
+            <summary>The motor marked M1.</summary>
+        </member>
+        <member name="F:Gadgeteer.Modules.GHIElectronics.MotorDriverL298.Motor.Motor2">
+            <summary>The motor marked M2.</summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,12 @@
+E:\Experiment\IOT4BDG\MobileRC\RCController\bin\Debug\RCController.exe.config
+E:\Experiment\IOT4BDG\MobileRC\RCController\bin\Debug\RCController.exe
+E:\Experiment\IOT4BDG\MobileRC\RCController\bin\Debug\RCController.pdb
+E:\Experiment\IOT4BDG\MobileRC\RCController\bin\Debug\SharpDX.DirectInput.dll
+E:\Experiment\IOT4BDG\MobileRC\RCController\bin\Debug\SharpDX.dll
+E:\Experiment\IOT4BDG\MobileRC\RCController\bin\Debug\SharpDX.xml
+E:\Experiment\IOT4BDG\MobileRC\RCController\bin\Debug\SharpDX.DirectInput.xml
+E:\Experiment\IOT4BDG\MobileRC\RCController\obj\Debug\RCController.csprojResolveAssemblyReference.cache
+E:\Experiment\IOT4BDG\MobileRC\RCController\obj\Debug\RCController.exe
+E:\Experiment\IOT4BDG\MobileRC\RCController\obj\Debug\RCController.pdb
+E:\Experiment\IOT4BDG\MobileRC\RCController\bin\Debug\M2Mqtt.Net.dll
+E:\Experiment\IOT4BDG\MobileRC\RCController\bin\Debug\M2Mqtt.Net.pdb
